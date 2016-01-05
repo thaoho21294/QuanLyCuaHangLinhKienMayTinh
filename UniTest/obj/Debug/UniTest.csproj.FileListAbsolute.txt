@@ -1,0 +1,32 @@
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\UniTest.dll
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\UniTest.pdb
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\DAL.dll
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\nunit.framework.dll
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\DTO.dll
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\CommonLayer.dll
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\DAL.pdb
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\nunit.framework.xml
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\DTO.pdb
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\CommonLayer.pdb
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.csprojResolveAssemblyReference.cache
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.dll
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.pdb
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\BLL.dll
+F:\HK_7\SE108.G11-Kiểm chứng phần mềm\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\BLL.pdb
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\UniTest.dll
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\UniTest.pdb
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\BLL.dll
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\CommonLayer.dll
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\DAL.dll
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\DTO.dll
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\nunit.framework.dll
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\BLL.pdb
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\CommonLayer.pdb
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\DAL.pdb
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\DTO.pdb
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\nunit.framework.xml
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.csprojResolveAssemblyReference.cache
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.dll
+C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.pdb
