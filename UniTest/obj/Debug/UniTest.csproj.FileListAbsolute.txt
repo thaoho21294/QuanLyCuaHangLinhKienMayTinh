@@ -46,3 +46,4 @@ E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\n
 E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.csprojResolveAssemblyReference.cache
 E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.dll
 E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\UniTest\obj\Debug\UniTest.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\UniTest\bin\Debug\nunitlite.dll
