@@ -8,3 +8,13 @@ F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhK
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\DAL\obj\Debug\DAL.dll
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\DAL\obj\Debug\DAL.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\bin\Debug\DAL.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\bin\Debug\DAL.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\bin\Debug\CommonLayer.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\bin\Debug\DTO.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\bin\Debug\CommonLayer.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\bin\Debug\DTO.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\obj\Debug\DAL.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DAL\obj\Debug\DAL.pdb

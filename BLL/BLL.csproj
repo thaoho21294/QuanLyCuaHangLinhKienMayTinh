@@ -46,6 +46,9 @@
     <Compile Include="Warehouse\BllProduct.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\CommonLayer\CommonLayer.csproj">
       <Project>{842849b1-cd5b-4224-b77d-0022c25379ec}</Project>
       <Name>CommonLayer</Name>
@@ -58,9 +61,6 @@
       <Project>{3b7150d3-8b40-4913-a77a-e0be6bc7fbe0}</Project>
       <Name>DTO</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="bin\Debug\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

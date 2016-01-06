@@ -1,22 +1,19 @@
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\QuanLyCuaHangLinhKienMayTinh.exe.config
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\QuanLyCuaHangLinhKienMayTinh.exe
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\QuanLyCuaHangLinhKienMayTinh.pdb
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\BLL.dll
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\CommonLayer.dll
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\DTO.dll
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\DAL.dll
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\BLL.pdb
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\CommonLayer.pdb
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\DTO.pdb
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\DAL.pdb
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.csprojResolveAssemblyReference.cache
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.Properties.Resources.resources
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.Warehouse.frmProduct.resources
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.csproj.GenerateResource.Cache
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.exe.licenses
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.exe
-C:\Users\thanhthao\Desktop\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.pdb
-E:\code\Đồ án kì 1-2015\Testing\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\QuanLyCuaHangLinhKienMayTinh.exe.config
-E:\code\Đồ án kì 1-2015\Testing\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.exe
-E:\code\Đồ án kì 1-2015\Testing\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\QuanLyCuaHangLinhKienMayTinh.exe.config
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\QuanLyCuaHangLinhKienMayTinh.exe
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\QuanLyCuaHangLinhKienMayTinh.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\BLL.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\CommonLayer.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\DTO.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\DAL.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\BLL.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\CommonLayer.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\DTO.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\bin\Debug\DAL.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.csprojResolveAssemblyReference.cache
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.Properties.Resources.resources
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.Warehouse.frmProduct.resources
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.csproj.GenerateResource.Cache
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.exe.licenses
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.exe
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\QuanLyCuaHangLinhKienMayTinh\obj\Debug\QuanLyCuaHangLinhKienMayTinh.pdb

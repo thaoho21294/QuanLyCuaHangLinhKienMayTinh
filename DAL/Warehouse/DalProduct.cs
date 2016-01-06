@@ -13,7 +13,7 @@ namespace DAL.Warehouse
 {
     public class DalProduct
     {
-        string con = "Data Source = LTN; Initial Catalog = QLBH_CuaHangBanMayTinhVaLinhKien; Integrated Security = True";
+        string con = "Data Source=THAOHO94; Initial Catalog=QLBH_CuaHangBanMayTinhVaLinhKien_v2; Integrated Security=True";
         public DataTable GetListProducts()
         {
             //return SqlHelper.ExecuteDataset(Constants.ConnectionString,
