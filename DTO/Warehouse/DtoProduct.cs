@@ -155,7 +155,7 @@ namespace DTO.Warehouse
 
         public override string ToString()
         {
-            return $"ThoiGianBaoHanh: {ThoiGianBaoHanh}, SoLuong: {SoLuong}, LoaiSanPham: {LoaiSanPham}, GhiChu: {GhiChu}, DonViTinh: {DonViTinh}, DonGiaBan: {DonGiaBan}, DonGiaNhap: {DonGiaNhap}, TenSanPham: {TenSanPham}, MaSanPham: {MaSanPham}";
+            return "ThoiGianBaoHanh: {ThoiGianBaoHanh}, SoLuong: {SoLuong}, LoaiSanPham: {LoaiSanPham}, GhiChu: {GhiChu}, DonViTinh: {DonViTinh}, DonGiaBan: {DonGiaBan}, DonGiaNhap: {DonGiaNhap}, TenSanPham: {TenSanPham}, MaSanPham: {MaSanPham}";
         }
 
         public override bool Equals(object obj)

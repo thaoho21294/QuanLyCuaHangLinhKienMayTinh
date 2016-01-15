@@ -3,3 +3,8 @@ F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhK
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\DTO\obj\Debug\DTO.dll
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\DTO\obj\Debug\DTO.pdb
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DTO\obj\Debug\DTO.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DTO\obj\Debug\DTO.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DTO\bin\Debug\DTO.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\DTO\bin\Debug\DTO.pdb

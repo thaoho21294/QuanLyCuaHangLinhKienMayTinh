@@ -4,3 +4,9 @@ F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhK
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\CommonLayer\obj\Debug\CommonLayer.dll
 F:\HK_7\SE100.G11-Phương pháp PM HĐT\snv_Do_an\trunk\code\QuanLyCuaHangLinhKienMayTinh\CommonLayer\obj\Debug\CommonLayer.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\CommonLayer\bin\Debug\CommonLayer.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\CommonLayer\bin\Debug\CommonLayer.pdb
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\CommonLayer\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\CommonLayer\obj\Debug\CommonLayer.dll
+E:\code\Đồ án kì 1-2015\QuanLyCuaHangLinhKienMayTinh\CommonLayer\obj\Debug\CommonLayer.pdb
